@@ -1,0 +1,7 @@
+br\edu\seuprojeto\lpoo\barbershop\Main.class
+model\StatusAgendamento.class
+model\Cliente.class
+model\Usuario.class
+model\Servico.class
+model\Agendamento.class
+model\Barbeiro.class
