@@ -16,7 +16,7 @@ O sistema criado foi um **gerenciamento de uma barbearia**, com foco no controle
     * Funcionalidade para cancelar agendamentos existentes.
 
 ## Diagrama de Classes UML
-
+[Visualizar Diagrama de Classes em PDF](Diagrama%20de%20Classes%20UML%20(1).pdf)
 
 ## Tecnologias Utilizadas
 
